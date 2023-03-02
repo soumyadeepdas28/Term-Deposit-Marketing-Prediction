@@ -53,3 +53,6 @@ bank client data:
 Output variable (desired target):
 
 17 - y - has the client subscribed a term deposit? (binary: "yes","no")
+
+# Accuracy :- 85%
+# Precision :- 73%
